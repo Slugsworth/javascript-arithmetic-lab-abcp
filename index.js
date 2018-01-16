@@ -23,6 +23,11 @@ function inc(n){
 }
 inc(2);
 
+function dec(n){
+  return n - 1 
+}
+dec(2);
+
 
 
 
