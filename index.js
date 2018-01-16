@@ -18,12 +18,11 @@ function divide(num1,num2){
 }
 divide(5,2.5);
 
-var n = 1
 function inc(n){
-  number+= 1
+  return n + 1
 }
-inc();
-console.log(n);
+inc(2);
+
 
 
 
