@@ -18,6 +18,10 @@ function divide(num1,num2){
 }
 divide(5,2.5);
 
+function inc(n){
+  return n++
+}
+inc(2);
 
 
 
