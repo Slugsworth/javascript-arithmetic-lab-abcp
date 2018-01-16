@@ -8,7 +8,17 @@ function subtract(num1,num2){
 }
 subtract(3,1);
 
-function
+function multiply(num1,num2) {
+  return num1*num2
+}
+multiply(3,4);
+
+function divide(num1,num2){
+  return num1/num2
+}
+divide(4,2);
+
+
 
 
 1 + 80
