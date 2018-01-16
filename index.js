@@ -1,22 +1,22 @@
 function add(num1,num2) {
   return num1 + num2
 }
-add(1,2);
+add(1,80);
 
 function subtract(num1,num2){
   return num1 - num2
 }
-subtract(3,1);
+subtract(60,40);
 
 function multiply(num1,num2) {
   return num1*num2
 }
-multiply(3,4);
+multiply(2,3.4);
 
 function divide(num1,num2){
   return num1/num2
 }
-divide(4,2);
+divide(5,2.5);
 
 
 
